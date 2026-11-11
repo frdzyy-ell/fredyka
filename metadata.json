@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Sains IPAS Kelas 5 SD",
+  "description": "Aplikasi Pembelajaran Interaktif IPAS Kelas V SD: Misteri Magnet, Listrik, dan Teknologi untuk Kehidupan oleh Fredyka Elga Ariantama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
